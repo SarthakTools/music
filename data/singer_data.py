@@ -16,22 +16,22 @@ singer_data = {
     "Baaton Ko Teri": "Arijit Singh",
     "Can We Kiss Forever": "Kina ft. Adriana Proenza",
     "Chhod Diya": "Arijit Singh",
-    "Faded": "Alan Walker (vocal: Iselin Solheim)",
+    "Faded": "Alan Walker",
     "Fearless": "Taylor Swift",
-    "Hymn For The Weekend": "Coldplay (ft. Beyoncé)",
-    "Infinity": "Jaymes Young",  # Most common match for popular song
+    "Hymn For The Weekend": "Coldplay",
+    "Infinity": "Jaymes Young", 
     "Into Your Arms": "Witt Lowry ft. Ava Max",
     "Khairiyat": "Arijit Singh",
     "Khamoshiyan": "Arijit Singh",
     "Let Me Down Slowly": "Alec Benjamin",
     "Phir Mohabbat": "Mohammed Irfan, Arijit Singh & Saim Bhat",
     "Raghupathi Raghava Rajaram": "Armonium",
-    "Ram Aayenge": "Vishal Mishra / Swati Mishra (Payal Dev)",
+    "Ram Aayenge": "Swati Mishra",
     "Safari": "Serena",
     "See You Again": "Wiz Khalifa ft. Charlie Puth",
     "Tere Sang Yaara": "Atif Aslam",
-    "Transformers-Prime": "Brian Tyler (theme)",
+    "Transformers-Prime": "Brian Tyler",
     "Tu Jo Mila": "KK",
     "Tum Hi Ho": "Arijit Singh",
-    "Whitesand-Adventure-Begins-Orche": "Whitesand (Martynas Laurinavičius)"
+    "Whitesand-Adventure-Begins-Orche": "Whitesand"
 }
