@@ -25,7 +25,7 @@ singer_data = {
     "Khamoshiyan": "Arijit Singh",
     "Let Me Down Slowly": "Alec Benjamin",
     "Phir Mohabbat": "Mohammed Irfan, Arijit Singh & Saim Bhat",
-    "Raghupathi Raghava Rajaram": "Traditional (various, e.g., Ashit Desai)",
+    "Raghupathi Raghava Rajaram": "Armonium",
     "Ram Aayenge": "Vishal Mishra / Swati Mishra (Payal Dev)",
     "Safari": "Serena",
     "See You Again": "Wiz Khalifa ft. Charlie Puth",
