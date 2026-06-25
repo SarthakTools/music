@@ -33,5 +33,6 @@ singer_data = {
     "Transformers-Prime": "Brian Tyler",
     "Tu Jo Mila": "KK",
     "Tum Hi Ho": "Arijit Singh",
-    "Whitesand-Adventure-Begins-Orche": "Whitesand"
+    "Whitesand-Adventure-Begins-Orche": "Whitesand",
+            "Testing", "hehe..."
 }
