@@ -34,5 +34,5 @@ singer_data = {
     "Tu Jo Mila": "KK",
     "Tum Hi Ho": "Arijit Singh",
     "Whitesand-Adventure-Begins-Orche": "Whitesand",
-            "Testing", "hehe..."
+            "Testing" : "hehe...",
 }
