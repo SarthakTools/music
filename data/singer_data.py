@@ -34,5 +34,7 @@ singer_data = {
     "Tu Jo Mila": "KK",
     "Tum Hi Ho": "Arijit Singh",
     "Whitesand-Adventure-Begins-Orche": "Whitesand",
-    "Testing": "Hehe"
+    "Testing": "Hehe",
+            "Somewhere Only We Know" : "Gustixa, Rhianne",
+            "Vande Mataram" : "U.V Narayan"
 }
