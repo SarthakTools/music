@@ -1,8 +1,8 @@
 music_details = [
     {"name": "Let Me Down Slowly", "image": "let_me_down_slowly.png", "tab": "home1"},
     {"name": "Raghupathi Raghava Rajaram", "image": "raghupathi_raghava_rajaram.png", "tab": "home1"},
-    {"name": "Testing", "image": "testing.png", "tab": "home1"},
-    {"name": "Tu Jo Mila", "image": "tu_jo_mila.png", "tab": "home1"},
+    {"name": "Somewhere Only We Know", "image": "somewhere_only_we_know.png", "tab": "home1"},
+    {"name": "Vande Mataram Instrumental", "image": "vande_mataram_instrumental.png", "tab": "home1"},
 
     {"name": "Faded", "image": "faded.png", "tab": "home2"},
     {"name": "See You Again", "image": "see_you_again.png", "tab": "home2"},
@@ -18,9 +18,4 @@ music_details = [
     {"name": "Tum Hi Ho", "image": "tum_hi_ho.png", "tab": "home4"},
     {"name": "Khairiyat", "image": "Khairiyat.png", "tab": "home4"},
     {"name": "Baaton Ko Teri", "image": "baaton_ko_teri.png", "tab": "home4"},
-
-    {"name": "Khamoshiyan", "image": "khamoshiyan.png", "tab": "home5"},
-    {"name": "Tere Sang Yaara", "image": "tere_sang_yaara.png", "tab": "home5"},
-    {"name": "Chhod Diya", "image": "chhod_diya.png", "tab": "home5"},
-    {"name": "Phir Mohabbat", "image": "phir_mohabbat.png", "tab": "home5"},
 ]
