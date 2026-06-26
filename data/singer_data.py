@@ -24,7 +24,7 @@ singer_data = {
     "Khairiyat": "Arijit Singh",
     "Khamoshiyan": "Arijit Singh",
     "Let Me Down Slowly": "Alec Benjamin",
-    "Phir Mohabbat": "Mohammed Irfan, Arijit Singh & Saim Bhat",
+    "Phir Mohabbat": "Arijit Singh",
     "Raghupathi Raghava Rajaram": "Armonium",
     "Ram Aayenge": "Swati Mishra",
     "Safari": "Serena",
