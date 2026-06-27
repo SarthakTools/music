@@ -36,7 +36,7 @@ singer_data = {
     "Whitesand-Adventure-Begins-Orche": "Whitesand",
     "Testing": "Hehe",
             "Somewhere Only We Know" : "Gustixa, Rhianne",
-            "Vande Mataram" : "U.V.Niranjan"
+            "Vande Mataram Instrumental" : "U.V.Niranjan"
 }
 
 
