@@ -26,17 +26,15 @@ singer_data = {
     "Let Me Down Slowly": "Alec Benjamin",
     "Phir Mohabbat": "Arijit Singh",
     "Raghupathi Raghava Rajaram": "Armonium",
-    "Ram Aayenge": "Swati Mishra",
     "Safari": "Serena",
     "See You Again": "Wiz Khalifa ft. Charlie Puth",
-    "Tere Sang Yaara": "Atif Aslam",
     "Transformers-Prime": "Brian Tyler",
     "Tu Jo Mila": "KK",
     "Tum Hi Ho": "Arijit Singh",
     "Whitesand-Adventure-Begins-Orche": "Whitesand",
-    "Testing": "Hehe",
             "Somewhere Only We Know" : "Gustixa, Rhianne",
-            "Vande Mataram Instrumental" : "U.V.Niranjan"
+            "Vande Mataram Instrumental" : "U.V.Niranjan",
+            "Arcade" : "Duncan Laurence"
 }
 
 
