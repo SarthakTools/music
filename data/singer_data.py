@@ -17,7 +17,7 @@ singer_data = {
     "Can We Kiss Forever": "Kina ft. Adriana Proenza",
     "Chhod Diya": "Arijit Singh",
     "Faded": "Alan Walker",
-    "Fearless": "Taylor Swift",
+    "Fearless": "Chris Linton",
     "Hymn For The Weekend": "Coldplay",
     "Infinity": "Jaymes Young", 
     "Into Your Arms": "Witt Lowry ft. Ava Max",
