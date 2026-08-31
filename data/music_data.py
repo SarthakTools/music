@@ -18,4 +18,5 @@ music_details = [
     {"name": "Tum Hi Ho", "image": "tum_hi_ho.png", "tab": "home4"},
     {"name": "Khairiyat", "image": "Khairiyat.png", "tab": "home4"},
     {"name": "Baaton Ko Teri", "image": "baaton_ko_teri.png", "tab": "home4"},
+{"under_the_rain" : "home5"}
 ]
